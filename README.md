@@ -5,6 +5,10 @@ Stardew Valley animation cancelling script written in python that works cross-pl
 
 Works on MacOS and Windows. Unfortunately, it does not yet work on linux, but I am working on getting linux compatibility sorted. 
 
+**Required libraries**
+
+This script requires that you have ```pygetwindow``` and ```keyboard``` installed. To install these libraries simply run ```pip install pygetwindow``` and ```pip install keyboard```. You can also run ```pip install pygetwindow keyboard``` to install all the required libraries all at once. 
+
 **Running the script**
 
 On windows, simply run the script and it will check if your stardew valley is open. It works with SMAPI as well. If Stardew is not open, it will just close itself. 
