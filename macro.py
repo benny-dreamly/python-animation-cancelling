@@ -13,7 +13,7 @@ if os == 'darwin':
                 keyboard.send('right_shift+r+del')
             if event.event_type == keyboard.KEY_DOWN and event.name == 'delete':
                 keyboard.send('space')
-if os == ('win32:'):
+if os == ('win32'):
     windows_open = pygetwindow.getAllTitles()
     if 'SMAPI ' or 'Stardew Valley' in windows_open:
         while True:
