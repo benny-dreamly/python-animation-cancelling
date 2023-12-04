@@ -12,6 +12,7 @@ On windows, simply run the script and it will check if your stardew valley is op
 On macOS, the keyboard library I am using to get keyboard presses and actually make the macro work requires administrator permissions to run. In order to get the script to run, use this command: ```sudo python3 macro.py``` If administrator permissions are not granted to the script, it will fail to run. 
 In order to launch the script, simply run ```./launch-macro.sh``` in a new terminal window, and it should prompt you for your password, this does require that you are an admin on your mac. 
 
+Running the shell script is just a convenience, but you can also use the command above in a standalone terminal window as well. Thought I'd include the launching script anyway, if you aren't super savvy with the terminal. 
 **Controls**
 
 The space bar is bound to the macro. If you'd like to add a space whilst in game, press the delete key. That way, you don't have to constantly copy and paste your space bar in order to have a functioning keyboard. 
