@@ -13,3 +13,6 @@ On macOS, the keyboard library I am using to get keyboard presses and actually m
 
 **FAQ**
 
+Why should I use this?
+
+I decided to make this script because I couldn't find a way to do animation cancelling on my macbook. I downloaded an autohotkey script on my windows pc and it works flawlessly, but it just doesn't work on macOS. Hopefully you find this useful, and feel free to make any changes you feel are needed, or create an issue, and I can figure out how to get some additional features working.
